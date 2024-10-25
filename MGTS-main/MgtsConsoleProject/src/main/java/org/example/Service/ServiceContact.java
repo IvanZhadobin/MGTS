@@ -46,7 +46,6 @@ public class ServiceContact {
         }
     }
 
-
     // Метод для просмотра всех контактов
     public static void viewAllContacts() {
         if (contacts.isEmpty()) {
